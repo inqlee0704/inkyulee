@@ -5,7 +5,6 @@ title: In Kyu Lee
 ---
 
 # In Kyu Lee
-![In Kyu Lee](assets/profile.png){:style="width:160px; margin-top:1rem;"}
 
 PhD student, Medical Imaging & AI, UC San Diego  
 📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
@@ -13,8 +12,20 @@ PhD student, Medical Imaging & AI, UC San Diego
 
 ---
 
-## About
-I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines across registration, deep learning segmentation, and statistical modeling.
+
+<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
+
+  <img src="assets/profile.png" alt="In Kyu Lee"
+       style="width:200px; height:auto; object-fit:cover; border:1px solid #ddd; box-shadow:2px 2px 6px rgba(0,0,0,0.1); flex-shrink:0;">
+
+  <p style="max-width:480px; margin:0;">
+    I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
+    chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines
+    across registration, deep learning segmentation, and statistical modeling.
+  </p>
+
+</div>
+
 
 ---
 

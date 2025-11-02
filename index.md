@@ -33,15 +33,15 @@ title: In Kyu Lee
 
 ## Education
 - **University of California, San Diego**  
-  Ph.D., Mechanical Engineering | 2024 – Present  
+  Ph.D., Mechanical Engineering \| 2024 – Present  
   Advisor: Claire Acevedo
 
 - **University of Kansas**  
-  M.S., Bioengineering (Honors) | 2022
+  M.S., Bioengineering (Honors) \| 2022
   Advisor: Jiwoong Choi
 
 - **University of Minnesota – Twin Cities**  
-  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science | 2020 
+  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science \| 2020 
   Advisor: Hyun Soo Park
 
 
@@ -86,14 +86,14 @@ title: In Kyu Lee
 
 
 ## Honors & Awards
-- ASH Abstract Achievement Award | 2025
-- MICCAI ARCADE — 1st (Stenosis) & 2nd (Artery) | 2023
-- Outstanding Student Researcher Award, University of Kansas | 2023
-- International Collaborative Asthma Network (ICAN) Travel Award | 2022
-- Burn Diagnosis AI Challenge — 1st place, Ministry of Science and ICT in Korea | 2022
-- Lung Cancer Segmentation Competition - 2nd place, Ajou University Medical Center | 2022
-- Undergraduate Research Opportunity Program (UROP) Award, University of Minnesota | 2019
-- Chester Gaskell Aeronautical Engineering Scholarship, University of Minnesota | 2019
+- ASH Abstract Achievement Award \| 2025
+- MICCAI ARCADE — 1st (Stenosis) & 2nd (Artery) \| 2023
+- Outstanding Student Researcher Award, University of Kansas \| 2023
+- International Collaborative Asthma Network (ICAN) Travel Award \| 2022
+- Burn Diagnosis AI Challenge — 1st place, Ministry of Science and ICT in Korea \| 2022
+- Lung Cancer Segmentation Competition - 2nd place, Ajou University Medical Center \| 2022
+- Undergraduate Research Opportunity Program (UROP) Award, University of Minnesota \| 2019
+- Chester Gaskell Aeronautical Engineering Scholarship, University of Minnesota \| 2019
 
 
 ## Patents & Skills

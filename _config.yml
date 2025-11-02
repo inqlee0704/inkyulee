@@ -1,8 +1,8 @@
 
 # Minimal GitHub Pages / Jekyll configuration
 theme: minima
-title: "In Kyu Lee"
-description: "PhD student, Medical Imaging & AI, UC San Diego"
+title: "In Kyu's website"
+description: ""
 markdown: kramdown
 kramdown:
   input: GFM

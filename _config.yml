@@ -1,9 +1,7 @@
-
-# Minimal GitHub Pages / Jekyll configuration
-theme: minima
-title: "In Kyu's website"
-description: ""
+# Minimal GitHub Pages config (no theme)
+title: "In Kyu Lee"
+description: "PhD student @UCSD"
 markdown: kramdown
 kramdown:
   input: GFM
-# If you later add a CNAME, put it at the repo root and set your custom domain in the repo settings.
+layout: none

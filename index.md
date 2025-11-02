@@ -5,6 +5,7 @@ title: In Kyu Lee
 ---
 
 # In Kyu Lee
+![In Kyu Lee](assets/profile.png){:style="width:160px; border-radius:50%; margin-top:1rem;"}
 
 PhD student, Medical Imaging & AI, UC San Diego  
 📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  

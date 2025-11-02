@@ -9,7 +9,7 @@ title: In Kyu Lee
 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:20px;">
 
   <!-- Left side: intro + about -->
-  <div style="flex:1; min-width:260px; max-width:600px;">
+  <div style="flex:1; min-width:260px; max-width:600px;" markdown="1">
 
   **PhD student, Medical Imaging & AI, UC San Diego**  
   📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
@@ -31,7 +31,6 @@ title: In Kyu Lee
 
 </div>
 
----
 
 ## Education
 - **University of California, San Diego**  

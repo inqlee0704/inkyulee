@@ -13,7 +13,7 @@ title: In Kyu Lee
 
   **PhD student, Medical Imaging & AI, UC San Diego**  
   📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
-  [CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](#) · [GitHub](#) · [LinkedIn](#)
+  [CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
   <br>
 
@@ -34,15 +34,15 @@ title: In Kyu Lee
 
 ## Education
 - **University of California, San Diego**  
-  Ph.D., Mechanical Engineering — Sept 2024 – Present  
+  Ph.D., Mechanical Engineering | 2024 – Present  
   Advisor: Claire Acevedo
 
 - **University of Kansas**  
-  M.S., Bioengineering (Honors) — Jul 2022
+  M.S., Bioengineering (Honors) | 2022
   Advisor: Jiwoong Choi
 
 - **University of Minnesota – Twin Cities**  
-  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science — May 2020 
+  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science | 2020 
   Advisor: Hyun Soo Park
 
 
@@ -60,7 +60,7 @@ title: In Kyu Lee
   Analyzed environmental exposure in lung-disease cohorts (PCA, k-means); associated QCT variables with particulate-matter exposure.
 
 
-## Selected Publications
+## Publications
 - **Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT**  
   *Lee IK, Obata Y, Pmicter A, Williams J, Kikani B, Jensen C, Sborov D, Stephens D, Acevedo C* — *bioRxiv*, 2025
 
@@ -80,17 +80,21 @@ title: In Kyu Lee
   *Yu Z, Yoon JS, Lee IK, Venkatesh P, Park J, Yu J, Park HS* — *CVPR*, 2020
 
 
-## Talks
+## Conference presentations
 - *Disruption of marrow microenvironments in CLL by high-resolution synchrotron micro-CT* — SES, Atlanta, Oct 12–15, 2025 (oral)
 - *Quantitative CT and CFD Explain Bronchodilator-induced Regional Ventilation Improvement in Asthma* — ICAN, San Francisco, May 12–13, 2022 (oral)
 - *Toward extended quantitative CT imaging application with deep transfer learning* — ATS, May 14–19, 2021 (poster)
 
 
 ## Honors & Awards
-- ASH Abstract Achievement Award (2025)
-- MICCAI 2023 ARCADE — 1st (Stenosis) & 2nd (Artery)
-- Outstanding Student Researcher Award (KU, 2023)
-- Burn Diagnosis AI Challenge — 1st (2022)
+- ASH Abstract Achievement Award | 2025
+- MICCAI ARCADE — 1st (Stenosis) & 2nd (Artery) | 2023
+- Outstanding Student Researcher Award, University of Kansas | 2023
+- International Collaborative Asthma Network (ICAN) Travel Award | 2022
+- Burn Diagnosis AI Challenge — 1st place, Ministry of Science and ICT in Korea | 2022
+- Lung Cancer Segmentation Competition - 2nd place, Ajou University Medical Center | 2022
+- Undergraduate Research Opportunity Program (UROP) Award, University of Minnesota | 2019
+- Chester Gaskell Aeronautical Engineering Scholarship, University of Minnesota | 2019
 
 
 ## Patents & Skills

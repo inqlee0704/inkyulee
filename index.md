@@ -6,25 +6,34 @@ title: In Kyu Lee
 
 # In Kyu Lee
 
-PhD student, Medical Imaging & AI, UC San Diego  
-📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
-[CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) ·  [LinkedIn]([#](https://www.linkedin.com/in/in-kyu-lee-6a0850219/))
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:20px;">
+
+  <!-- Left side: intro + about -->
+  <div style="flex:1; min-width:260px; max-width:600px;">
+
+  **PhD student, Medical Imaging & AI, UC San Diego**  
+  📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
+  [CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](#) · [GitHub](#) · [LinkedIn](#)
+
+  <br>
+
+  I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
+  chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines
+  across registration, deep learning segmentation, and statistical modeling.
+
+  </div>
+
+  <!-- Right side: profile image -->
+  <div style="flex-shrink:0;">
+    <img src="assets/profile.png" alt="In Kyu Lee"
+         style="width:220px; height:auto; border:1px solid #ddd; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
+  </div>
+
+</div>
 
 ---
 
 
-<div style="display:flex; align-items:center; gap:20px; flex-wrap:wrap;">
-
-  <img src="assets/profile.png" alt="In Kyu Lee"
-       style="width:200px; height:auto; object-fit:cover; border:1px solid #ddd; box-shadow:2px 2px 6px rgba(0,0,0,0.1); flex-shrink:0;">
-
-  <p style="max-width:480px; margin:0;">
-    I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
-    chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines
-    across registration, deep learning segmentation, and statistical modeling.
-  </p>
-
-</div>
 
 
 ---

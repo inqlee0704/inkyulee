@@ -13,7 +13,7 @@ title: In Kyu Lee
 
   **PhD student, Medical Imaging & AI, UC San Diego**  
   📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
-  [CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
+  [CV](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
 
   I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
@@ -33,16 +33,16 @@ title: In Kyu Lee
 
 ## Education
 - **University of California, San Diego**  
-  Ph.D., Mechanical Engineering \| 2024 – Present  
-  Advisor: Claire Acevedo
+  Ph.D., Mechanical Engineering \| 2024 – Present\
+  Advisor: [Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo)
 
 - **University of Kansas**  
-  M.S., Bioengineering (Honors) \| 2022
-  Advisor: Jiwoong Choi
+  M.S., Bioengineering (Honors) \| 2022\
+  Advisor: [Jiwoong Choi](https://www.kumc.edu/jchoi4.html) & [William Brooks](https://berc.ku.edu/people/william-brooks)
 
 - **University of Minnesota – Twin Cities**  
-  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science \| 2020 
-  Advisor: Hyun Soo Park
+  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science \| 2020\
+  Advisor: [Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/)
 
 
 ## Experience

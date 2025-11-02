@@ -33,11 +33,6 @@ title: In Kyu Lee
 
 ---
 
-
-
-
----
-
 ## Education
 - **University of California, San Diego**  
   Ph.D., Mechanical Engineering — Sept 2024 – Present  
@@ -51,7 +46,6 @@ title: In Kyu Lee
   B.S., Aerospace Engineering & Mechanics; Minor in Computer Science — May 2020 
   Advisor: Hyun Soo Park
 
----
 
 ## Experience
 - **Graduate Research Assistant, UCSD — F² Lab** *(Aug 2024 – Present)*  
@@ -66,7 +60,6 @@ title: In Kyu Lee
 - **Research Assistant, Seoul National University Hospital** *(Summers 2019 & 2020)*  
   Analyzed environmental exposure in lung-disease cohorts (PCA, k-means); associated QCT variables with particulate-matter exposure.
 
----
 
 ## Selected Publications
 - **Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT**  
@@ -87,14 +80,12 @@ title: In Kyu Lee
 - **HUMBI: A Large Multiview Dataset of Human Body Expressions**  
   *Yu Z, Yoon JS, Lee IK, Venkatesh P, Park J, Yu J, Park HS* — *CVPR*, 2020
 
----
 
 ## Talks
 - *Disruption of marrow microenvironments in CLL by high-resolution synchrotron micro-CT* — SES, Atlanta, Oct 12–15, 2025 (oral)
 - *Quantitative CT and CFD Explain Bronchodilator-induced Regional Ventilation Improvement in Asthma* — ICAN, San Francisco, May 12–13, 2022 (oral)
 - *Toward extended quantitative CT imaging application with deep transfer learning* — ATS, May 14–19, 2021 (poster)
 
----
 
 ## Honors & Awards
 - ASH Abstract Achievement Award (2025)
@@ -102,14 +93,12 @@ title: In Kyu Lee
 - Outstanding Student Researcher Award (KU, 2023)
 - Burn Diagnosis AI Challenge — 1st (2022)
 
----
 
 ## Patents & Skills
 **Patents:** matching medical images by respiration phase; labeling medical images; FFR data generation.  
 **Programming:** Python, MATLAB, Fortran  
 **Languages:** Korean, English, Chinese 
 
----
 
 ## Contact
 For collaborations or speaking, please email me with a short project description and preferred dates.  

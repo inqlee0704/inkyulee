@@ -15,7 +15,6 @@ title: In Kyu Lee
   📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
   [CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
-  <br>
 
   I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
   chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines

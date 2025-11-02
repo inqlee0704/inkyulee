@@ -8,7 +8,7 @@ title: In Kyu Lee
 
 PhD student, Medical Imaging & AI, UC San Diego  
 📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
-[CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](#) · [GitHub](#) · [LinkedIn](#)
+[CV (PDF)](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) ·  [LinkedIn]([#](https://www.linkedin.com/in/in-kyu-lee-6a0850219/))
 
 ---
 
@@ -23,11 +23,11 @@ I study physics-based medical imaging and AI. My recent work spans synchrotron m
   Advisor: Claire Acevedo
 
 - **University of Kansas**  
-  M.S., Bioengineering (Honors) — Jul 2022 (GPA 3.86/4.0)  
+  M.S., Bioengineering (Honors) — Jul 2022
   Advisor: Jiwoong Choi
 
 - **University of Minnesota – Twin Cities**  
-  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science — May 2020 (GPA 3.70/4.0)  
+  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science — May 2020 
   Advisor: Hyun Soo Park
 
 ---
@@ -86,7 +86,7 @@ I study physics-based medical imaging and AI. My recent work spans synchrotron m
 ## Patents & Skills
 **Patents:** matching medical images by respiration phase; labeling medical images; FFR data generation.  
 **Programming:** Python, MATLAB, Fortran  
-**Languages:** English, Chinese, Korean
+**Languages:** Korean, English, Chinese 
 
 ---
 

@@ -93,6 +93,8 @@ title: In Kyu Lee
 For collaborations, please email me with a short project description and preferred dates.  
 📧 inqlee0704 [at] gmail.com
 
+<script defer data-domain="inqlee0704.github.io/inkyulee/" src="https://plausible.io/js/script.js"></script>
+
 ---
 
 © 2025 In Kyu Lee

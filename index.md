@@ -15,10 +15,7 @@ title: In Kyu Lee
   📧 [inqlee0704@gmail.com](mailto:inqlee0704@gmail.com)  
   [CV](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
-
-  I study physics-based medical imaging and AI. My recent work spans synchrotron microCT analysis of bone marrow in
-  chronic lymphocytic leukemia, coronary angiography segmentation and detection, and quantitative CT pipelines
-  across registration, deep learning segmentation, and statistical modeling.
+  I am currently a Ph.D. student at the [University of California, San Diego](https://jacobsschool.ucsd.edu/), where I work under the supervision of [Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo). I previously earned my M.S. in Bioengineering (Honors) from the [University of Kansas](https://www.kumc.edu/), advised by [Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [William Brooks](https://berc.ku.edu/people/william-brooks), and my B.S. in Aerospace Engineering & Mechanics with a minor in Computer Science from the [University of Minnesota – Twin Cities](https://cse.umn.edu/aem), advised by [Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/). My research interests focus on physics, medical imaging and AI, spanning synchrotron microCT analysis of bone marrow, coronary angiography, and quantitative CT pipelines that integrate registration, deep learning, and statistical modeling.
 
   </div>
 
@@ -29,20 +26,6 @@ title: In Kyu Lee
   </div>
 
 </div>
-
-
-## Education
-- **University of California, San Diego**  
-  Ph.D., Mechanical Engineering \| 2024 – Present\
-  Advisor: [Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo)
-
-- **University of Kansas**  
-  M.S., Bioengineering (Honors) \| 2022\
-  Advisor: [Jiwoong Choi](https://www.kumc.edu/jchoi4.html) & [William Brooks](https://berc.ku.edu/people/william-brooks)
-
-- **University of Minnesota – Twin Cities**  
-  B.S., Aerospace Engineering & Mechanics; Minor in Computer Science \| 2020\
-  Advisor: [Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/)
 
 
 ## Experience

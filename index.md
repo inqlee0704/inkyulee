@@ -12,7 +12,7 @@ title: In Kyu Lee
   <div style="flex:1; min-width:260px; max-width:600px;" markdown="1">
 
   **PhD student, Medical Imaging & AI, UC San Diego**  
-  📧 inqlee0704 [at] gmail.com
+  📧 inqlee0704 [at] gmail.com \
   [CV](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
   I am currently a Ph.D. student at the University of California, San Diego, where I work under the supervision of [Dr. Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo). I previously earned my M.S. in Bioengineering (Honors) from the University of Kansas, advised by [Dr. Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [Dr. William Brooks](https://berc.ku.edu/people/william-brooks), and my B.S. in Aerospace Engineering & Mechanics with a minor in Computer Science from the University of Minnesota, Twin Cities, advised by [Dr. Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/). My research interests focus on physics, medical imaging and AI, spanning synchrotron microCT analysis of bone marrow, coronary angiography, and quantitative CT pipelines that integrate registration, deep learning, and statistical modeling.

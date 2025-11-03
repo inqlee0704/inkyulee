@@ -25,7 +25,7 @@ title: In Kyu Lee
   <!-- Right side: profile image -->
   <div style="flex-shrink:0;">
     <img src="assets/profile.png" alt="In Kyu Lee"
-         style="width:420px; height:auto; border:1px solid #ddd; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
+         style="width:320px; height:auto; border:1px solid #ddd; box-shadow:2px 2px 6px rgba(0,0,0,0.1);">
   </div>
 
 </div>

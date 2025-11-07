@@ -76,7 +76,8 @@ title: In Kyu Lee
 
 ## Honors & Awards
 - ASH Abstract Achievement Award \| 2025
-- MICCAI ARCADE — 1st (Stenosis) & 2nd (Artery) \| 2023
+- MICCAI ARCADE — 1st (Stenosis) & 2nd (Artery) places \| 2023
+- Social Issues Data & AI Analysis Competition - 2nd place, National Research Council in Korea \| 2023
 - Outstanding Student Researcher Award, University of Kansas \| 2023
 - International Collaborative Asthma Network (ICAN) Travel Award \| 2022
 - Burn Diagnosis AI Challenge — 1st place, Ministry of Science and ICT in Korea \| 2022

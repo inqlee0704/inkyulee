@@ -64,7 +64,7 @@ title: In Kyu Lee
 - **MPSeg: Multi-Phase Strategy for Coronary Artery Segmentation (ARCADE Challenge)**  
   Ku JH, Lee Y-H, Shin J, **Lee IK,** Kim H-W — *MICCAI ARCADE*, 2023 [(arXiv:2311.10306)](https://arxiv.org/abs/2311.10306)
 
-- **HUMBI: A Large Multiview Dataset of Human Body Expressions**  
+- **[HUMBI: A Large Multiview Dataset of Human Body Expressions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_HUMBI_A_Large_Multiview_Dataset_of_Human_Body_Expressions_CVPR_2020_paper.pdf)**  
   Yu Z, Yoon JS, **Lee IK,** Venkatesh P, Park J, Yu J, Park HS — *CVPR*, 2020
 
 

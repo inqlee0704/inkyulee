@@ -21,7 +21,7 @@ title: In Kyu Lee
   📧 inqlee0704 [at] gmail.com <br />
   [CV](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
-  I am currently a Ph.D. student at the University of California, San Diego, where I work under the supervision of [Dr. Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo). I previously earned my M.S. in Bioengineering (Honors) from the University of Kansas, advised by [Dr. Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [Dr. William Brooks](https://berc.ku.edu/people/william-brooks), and my B.S. in Aerospace Engineering & Mechanics with a minor in Computer Science from the University of Minnesota, Twin Cities, advised by [Dr. Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/). My research interests focus on physics, medical imaging and AI, spanning synchrotron microCT analysis of bone marrow, coronary angiography, and quantitative CT pipelines that integrate registration, deep learning, and statistical modeling.
+  I am currently a Ph.D. student at the University of California, San Diego, where I work under the supervision of [Dr. Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo). I previously earned my M.S. in Bioengineering (Honors) from the University of Kansas, advised by [Dr. Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [Dr. William Brooks](https://berc.ku.edu/people/william-brooks), and my B.S. in Aerospace Engineering & Mechanics with a minor in Computer Science from the University of Minnesota, Twin Cities, advised by [Dr. Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/). My research interests focus on physics, medical imaging and AI, spanning synchrotron microCT analysis of bone marrow, coronary angiography, and quantitative CT pipelines that integrate registration, deep learning, and statistical modeling. More recently, I am very interested in self-supervised learning (SSL).
 
   </div>
 
@@ -39,13 +39,13 @@ title: In Kyu Lee
   Segmentation and quantification pipeline for microCT; marrow microenvironments in CLL using synchrotron microCT.
 
 - **Research Scientist, Medipixel** \| 2022 - 2024
-  Local refinement module for coronary lesion & bifurcation; led MICCAI ARCADE tasks; video-based complication detection; automated CFD (PyFluent).
+  Local refinement module for coronary lesion & bifurcation; video-based complication detection; led MICCAI ARCADE Challenge; automated CFD (PyFluent).
 
 - **Graduate Research Assistant, KU Medical Center** \|2020 – 2022 
-  Quantitative CT pipeline: DL segmentation, registration, ML analytics.
+  Quantitative CT pipeline: DL segmentation, image registration, 1D CFD modeling.
 
 - **Research Assistant, Seoul National University Hospital** \|Summers 2019 & 2020  
-  Analyzed environmental exposure in lung-disease cohorts (PCA, k-means); associated QCT variables with particulate-matter exposure.
+  Analyzed environmental exposure in lung-disease cohorts; associated QCT variables with particulate-matter exposure.
 
 
 ## Publications

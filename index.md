@@ -17,7 +17,7 @@ title: In Kyu Lee
   <!-- Left side: intro + about -->
   <div style="flex:1; min-width:260px; max-width:600px;" markdown="1">
 
-  **PhD student, Medical Imaging & AI, UC San Diego**  
+  **PhD student @ UC San Diego**  
   📧 inqlee0704 [at] gmail.com <br />
   [CV](assets/InKyuLee_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/in-kyu-lee-6a0850219/)
 
@@ -49,20 +49,20 @@ title: In Kyu Lee
 
 
 ## Publications
-- **Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT**  
+- **[Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT](https://www.biorxiv.org/content/10.1101/2025.10.20.683519v1.full.pdf)**  
   **Lee IK,** Obata Y, Pmicter A, Williams J, Kikani B, Jensen C, Sborov D, Stephens D, Acevedo C — *bioRxiv*, 2025
 
-- **Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection**  
+- **[Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection](https://papers.miccai.org/miccai-2025/paper/3613_paper.pdf)**  
   Seo S, **Lee IK,** Kim H-W, Min J, Jung C-H — *MICCAI*, 2025
 
-- **Gray’s Anatomy for Segmenting Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation**  
-  **Lee IK,** Ku J, Choi Y — *CVPR Workshop*, 2024
+- **[Gray’s Anatomy for Segmenting Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_16)**  
+  **Lee IK,** Ku J, Choi Y — *CVPR Workshop: MedSAM*, 2024
 
-- **SASS: Semi-Supervised Approach for Stenosis Segmentation (ARCADE Challenge)**  
-  **Lee IK,** Shin J, Lee Y-H, Ku JH, Kim H-W — *MICCAI ARCADE*, 2023 [(arXiv:2311.10281)](https://arxiv.org/abs/2311.10281)
+- **[SASS: Semi-Supervised Approach for Stenosis Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10281)**  
+  **Lee IK,** Shin J, Lee Y-H, Ku JH, Kim H-W — *MICCAI Workshop: ARCADE*, 2023
 
-- **MPSeg: Multi-Phase Strategy for Coronary Artery Segmentation (ARCADE Challenge)**  
-  Ku JH, Lee Y-H, Shin J, **Lee IK,** Kim H-W — *MICCAI ARCADE*, 2023 [(arXiv:2311.10306)](https://arxiv.org/abs/2311.10306)
+- **[MPSeg: Multi-Phase Strategy for Coronary Artery Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10306)**  
+  Ku JH, Lee Y-H, Shin J, **Lee IK,** Kim H-W — *MICCAI Workship: ARCADE*, 2023
 
 - **[HUMBI: A Large Multiview Dataset of Human Body Expressions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_HUMBI_A_Large_Multiview_Dataset_of_Human_Body_Expressions_CVPR_2020_paper.pdf)**  
   Yu Z, Yoon JS, **Lee IK,** Venkatesh P, Park J, Yu J, Park HS — *CVPR*, 2020

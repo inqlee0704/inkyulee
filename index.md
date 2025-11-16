@@ -39,7 +39,7 @@ title: In Kyu Lee
   Segmentation and quantification pipeline for microCT; marrow microenvironments in CLL using synchrotron microCT.
 
 - **Research Scientist, Medipixel** \| 2022 - 2024
-  Local refinement module for coronary lesion & bifurcation; video-based complication detection; led MICCAI ARCADE Challenge; automated CFD (PyFluent).
+  Local refinement module for coronary lesion & bifurcation; video-based complication detection; image quality assessment(IQA); led MICCAI ARCADE Challenge; automated CFD (PyFluent).
 
 - **Graduate Research Assistant, KU Medical Center** \|2020 – 2022 
   Quantitative CT pipeline: DL segmentation, image registration, 1D CFD modeling.

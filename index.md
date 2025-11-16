@@ -35,16 +35,16 @@ title: In Kyu Lee
 
 
 ## Experience
-- **Graduate Research Assistant, UCSD — F² Lab** \| 2024 – Present
+- **Graduate Research Assistant, UCSD — F² Lab** \| 2024 – Present\
   Segmentation and quantification pipeline for microCT; marrow microenvironments in CLL using synchrotron microCT.
 
-- **Research Scientist, Medipixel** \| 2022 - 2024
+- **Research Scientist, Medipixel** \| 2022 - 2024\
   Developed a frame recommendation module based on image quality assessment (integrated into the [MPXA product](https://medipixel.io/products/medipixelxa), local refinement module for coronary lesion & bifurcation, video-based complication detection; led MICCAI ARCADE Challenge; automated CFD (PyFluent).
 
-- **Graduate Research Assistant, KU Medical Center** \|2020 – 2022 
+- **Graduate Research Assistant, KU Medical Center** \|2020 – 2022\
   Quantitative CT pipeline: DL segmentation, image registration, 1D CFD modeling.
 
-- **Research Assistant, Seoul National University Hospital** \|Summers 2019 & 2020  
+- **Research Assistant, Seoul National University Hospital** \|Summers 2019 & 2020\  
   Analyzed environmental exposure in lung-disease cohorts; associated QCT variables with particulate-matter exposure.
 
 

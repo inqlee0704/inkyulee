@@ -44,7 +44,7 @@ title: In Kyu Lee
 - **Graduate Research Assistant, KU Medical Center** \|2020 – 2022\
   Quantitative CT pipeline: DL segmentation, image registration, 1D CFD modeling.
 
-- **Research Assistant, Seoul National University Hospital** \|Summer 2019 - 2020\
+- **Research Assistant, Seoul National University Hospital** \|Summers 2019 2020\
   Analyzed environmental exposure in lung-disease cohorts; associated QCT variables with particulate-matter exposure.
 
 

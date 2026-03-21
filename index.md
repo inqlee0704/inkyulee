@@ -49,29 +49,66 @@ title: In Kyu Lee
 
 
 ## Publications
-- **[Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT](https://www.biorxiv.org/content/10.1101/2025.10.20.683519v1.full.pdf)**  
+
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_cll.png" alt="CLL microCT figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-CT](https://www.biorxiv.org/content/10.1101/2025.10.20.683519v1.full.pdf)**
   **Lee IK,** Obata Y, Pmicter A, Williams J, Kikani B, Jensen C, Sborov D, Stephens D, Acevedo C — *bioRxiv*, 2025
+  </div>
+</div>
 
-- **[Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection](https://papers.miccai.org/miccai-2025/paper/3613_paper.pdf)**  
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_diffusion.png" alt="Diffusion augmentation figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[Diffusion-Based User-Guided Data Augmentation for Coronary Stenosis Detection](https://papers.miccai.org/miccai-2025/paper/3613_paper.pdf)**
   Seo S, **Lee IK,** Kim H-W, Min J, Jung C-H — *MICCAI*, 2025
+  </div>
+</div>
 
-- **[Gray’s Anatomy for Segmenting Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_16)**  
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_grays.png" alt="Gray’s Anatomy SAM figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[Gray’s Anatomy for Segmenting Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-81854-7_16)**
   **Lee IK,** Ku J, Choi Y — *CVPR Workshop: MedSAM*, 2024
+  </div>
+</div>
 
-- **[SASS: Semi-Supervised Approach for Stenosis Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10281)**  
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_sass.png" alt="SASS stenosis segmentation figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[SASS: Semi-Supervised Approach for Stenosis Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10281)**
   **Lee IK,** Shin J, Lee Y-H, Ku JH, Kim H-W — *MICCAI Workshop: ARCADE*, 2023
+  </div>
+</div>
 
-- **[MPSeg: Multi-Phase Strategy for Coronary Artery Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10306)**  
-  Ku JH, Lee Y-H, Shin J, **Lee IK,** Kim H-W — *MICCAI Workship: ARCADE*, 2023
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_mpseg.png" alt="MPSeg coronary artery segmentation figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[MPSeg: Multi-Phase Strategy for Coronary Artery Segmentation (ARCADE Challenge)](https://arxiv.org/abs/2311.10306)**
+  Ku JH, Lee Y-H, Shin J, **Lee IK,** Kim H-W — *MICCAI Workshop: ARCADE*, 2023
+  </div>
+</div>
 
-- **[HUMBI: A Large Multiview Dataset of Human Body Expressions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_HUMBI_A_Large_Multiview_Dataset_of_Human_Body_Expressions_CVPR_2020_paper.pdf)**  
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_humbi.png" alt="HUMBI dataset figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[HUMBI: A Large Multiview Dataset of Human Body Expressions](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_HUMBI_A_Large_Multiview_Dataset_of_Human_Body_Expressions_CVPR_2020_paper.pdf)**
   Yu Z, Yoon JS, **Lee IK,** Venkatesh P, Park J, Yu J, Park HS — *CVPR*, 2020
+  </div>
+</div>
 
 
 ## Conference presentations
-- *Disruption of marrow microenvironments in CLL by high-resolution synchrotron micro-CT* — SES, Atlanta, Oct 12–15, 2025 *(oral)*
-- *Quantitative CT and CFD Explain Bronchodilator-induced Regional Ventilation Improvement in Asthma* — ICAN, San Francisco, May 12–13, 2022 *(oral)*
-- *Toward extended quantitative CT imaging application with deep transfer learning* — ATS, May 14–19, 2021 (poster)
+- Disruption of marrow microenvironments in CLL by high-resolution synchrotron micro-CT — SES, Atlanta, Oct 12–15, 2025 *(oral)*
+- Quantitative CT and CFD Explain Bronchodilator-induced Regional Ventilation Improvement in Asthma — ICAN, San Francisco, May 12–13, 2022 *(oral)*
+- Toward extended quantitative CT imaging application with deep transfer learning — ATS, May 14–19, 2021 (poster)
 
 
 ## Honors & Awards
@@ -97,7 +134,7 @@ title: In Kyu Lee
 
 
 ## Contact
-For collaborations, please email me with a short project description and preferred dates.  
+For collaborations, please email me with a short project description.  
 📧 inqlee0704 [at] gmail.com
 
 

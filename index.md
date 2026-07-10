@@ -51,6 +51,15 @@ title: In Kyu Lee
 ## Publications
 
 <div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
+  <img src="assets/pub_gimm.png" alt="GIMM MICCAI 2026 figure"
+       style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
+  <div markdown="1">
+  **[Anatomy-Grounded Synthetic Coronary Angiography for Geometry-Informed Multi-View Matching](https://geometry-informed-multi-view-matching.github.io/)**
+  **Lee IK\*,** Seo S\*, Min J — *MICCAI*, 2026 *(\* equal contribution)*
+  </div>
+</div>
+
+<div style="display:flex; align-items:flex-start; gap:16px; margin-bottom:24px;">
   <img src="assets/pub_cll.png" alt="CLL microCT figure"
        style="width:160px; height:120px; object-fit:cover; flex-shrink:0; border:1px solid #ddd; border-radius:4px;">
   <div markdown="1">

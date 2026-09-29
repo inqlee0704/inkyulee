@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fdfdfc" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#131416" media="(prefers-color-scheme: dark)">
+  {%- seo -%}
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <!-- Privacy-friendly analytics by Plausible -->
+  <script async src="https://plausible.io/js/pa-ghJOmIroPBQKIyr3H6Dlr.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+    plausible.init()
+  </script>
+</head>
+<body>
+  <div class="wrap">
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <p>Open to collaborations — a short note about the project is plenty.<br>
+        inqlee0704 [at] gmail.com</p>
+      <p class="colophon">© {{ site.time | date: "%Y" }} In Kyu Lee<br>
+        Updated {{ site.time | date: "%B %Y" }}</p>
+    </footer>
+  </div>
+  <script>
+    // Honor the OS "reduce motion" setting: stop the looping figure and
+    // give the reader controls instead of taking the choice away.
+    if (window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      document.querySelectorAll('video[autoplay]').forEach(function (v) {
+        v.removeAttribute('autoplay');
+        v.controls = true;
+        v.pause();
+      });
+    }
+  </script>
+</body>
+</html>

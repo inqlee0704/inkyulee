@@ -1,0 +1,331 @@
+/* ------------------------------------------------------------------
+   In Kyu Lee — personal site
+   One stylesheet, no framework, no web fonts.
+   ------------------------------------------------------------------ */
+
+:root {
+  --bg:        #fdfdfc;
+  --fg:        #1c1c1f;
+  --muted:     #5c5c64;
+  --faint:     #737380;
+  --rule:      #e6e5e0;
+  --underline: #cbcac4;
+  --panel:     #f4f3ef;
+  --accent:    #2f6f9f;
+  --measure:   800px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:        #131416;
+    --fg:        #e7e6e3;
+    --muted:     #a2a2a9;
+    --faint:     #85858c;
+    --rule:      #2a2b2f;
+    --underline: #43444a;
+    --panel:     #1b1c1f;
+    --accent:    #8ab8dc;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto,
+        "Helvetica Neue", Arial, "Apple Color Emoji", sans-serif;
+  font-feature-settings: "kern" 1, "liga" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.wrap {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 4.5rem 1.5rem 3rem;
+}
+
+/* --- Links ------------------------------------------------------- */
+
+a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--underline);
+  text-underline-offset: 2px;
+  transition: color .12s ease, text-decoration-color .12s ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* --- Headings ---------------------------------------------------- */
+
+h1 {
+  margin: 0 0 .4rem;
+  font-size: 2.05rem;
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -.022em;
+  text-wrap: balance;
+}
+
+h2 {
+  margin: 3.75rem 0 1.35rem;
+  padding-bottom: .55rem;
+  border-bottom: 1px solid var(--rule);
+  color: var(--muted);
+  font-size: 1rem;
+  font-weight: 600;
+  /* tracking comes down as the size goes up, or uppercase starts to shout */
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 2rem 0 .75rem;
+  font-size: .9rem;
+  font-weight: 600;
+  letter-spacing: -.005em;
+}
+
+p { margin: 0 0 1rem; text-wrap: pretty; }
+
+/* --- Header ------------------------------------------------------ */
+
+.hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 2.5rem;
+}
+
+.hero-text { flex: 1 1 auto; min-width: 0; }
+
+.role {
+  margin: 0;
+  color: var(--muted);
+}
+
+.contact {
+  margin: .9rem 0 1.6rem;
+  color: var(--muted);
+  font-size: .94rem;
+  line-height: 1.9;
+}
+
+.contact .sep { margin: 0 .5rem; color: var(--underline); }
+
+.portrait {
+  flex: 0 0 auto;
+  width: 196px;
+  align-self: flex-start;
+}
+
+.portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+}
+
+.bio { color: var(--fg); }
+
+/* --- Dated lists (experience, teaching, awards, talks) ----------- */
+
+ul.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.list > li {
+  margin: 0 0 1.15rem;
+}
+
+/* Entries without a description line sit closer together. */
+ul.list > li:not(:has(p + p)) { margin-bottom: .6rem; }
+
+ul.list > li::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ul.list > li > p { margin: 0; }
+
+ul.list > li > p + p {
+  clear: right;
+  margin-top: .2rem;
+  color: var(--muted);
+  font-size: .94rem;
+}
+
+ul.list ul {
+  margin: .3rem 0 0;
+  padding: 0 0 0 1.1rem;
+  color: var(--muted);
+  font-size: .94rem;
+}
+
+ul.list ul li { margin: .15rem 0; }
+
+.yr {
+  float: right;
+  margin-left: 1.25rem;
+  color: var(--faint);
+  font-size: .85rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* --- Plain lists ------------------------------------------------- */
+
+main ul:not(.list) {
+  margin: 0 0 1rem;
+  padding-left: 1.15rem;
+}
+
+main ul:not(.list) li { margin: .3rem 0; }
+
+/* --- Publications ------------------------------------------------ */
+
+.pub {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin: 0 0 1.75rem;
+}
+
+.pub-thumb {
+  flex: 0 0 auto;
+  width: 150px;
+  height: 106px;
+  padding: 5px;
+  overflow: hidden;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 5px;
+}
+
+/* contain, not cover: figures are letterboxed rather than cropped,
+   so any aspect ratio drops in without losing part of the panel. */
+.pub-thumb img,
+.pub-thumb video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.pub-body { min-width: 0; }
+
+.pub-body > p { margin: 0; }
+
+.pub-body > p:first-child {
+  font-weight: 600;
+  letter-spacing: -.005em;
+  text-wrap: pretty;
+}
+
+/* Titles are already the loudest thing in the row — no underline until hover. */
+.pub-body > p:first-child a { text-decoration-color: transparent; }
+.pub-body > p:first-child a:hover,
+.pub-body > p:first-child a:focus-visible { text-decoration-color: var(--accent); }
+
+.pub-body > p + p {
+  margin-top: .3rem;
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+/* --- Footer ------------------------------------------------------ */
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem 2rem;
+  margin-top: 4.5rem;
+  padding-top: 1.4rem;
+  border-top: 1px solid var(--rule);
+  color: var(--faint);
+  font-size: .86rem;
+  line-height: 1.7;
+}
+
+footer p { margin: 0; }
+footer .colophon { text-align: right; }
+
+/* --- Narrow screens ---------------------------------------------- */
+
+@media (max-width: 680px) {
+  .wrap { padding: 2.75rem 1.25rem 2.5rem; }
+
+  h1 { font-size: 1.75rem; }
+  h2 { margin-top: 2.75rem; }
+
+  .hero {
+    flex-direction: column-reverse;
+    align-items: stretch;
+    gap: 1.5rem;
+  }
+
+  .portrait { width: 148px; }
+
+  .yr {
+    float: none;
+    display: block;
+    margin: 0 0 .1rem;
+  }
+
+  .pub { gap: 1rem; }
+  .pub-thumb { width: 118px; height: 84px; }
+
+  footer { flex-direction: column; }
+  footer .colophon { text-align: left; }
+}
+
+/* Below this width the thumbnail would squeeze titles into a column
+   two or three words wide, so it moves above the text instead. */
+@media (max-width: 560px) {
+  .pub {
+    flex-direction: column;
+    gap: .8rem;
+  }
+
+  .pub-thumb { width: 168px; height: 112px; }
+}
+
+/* --- Print ------------------------------------------------------- */
+
+@media print {
+  :root {
+    --bg: #fff; --fg: #000; --muted: #333; --faint: #555;
+    --rule: #ccc; --underline: #ccc; --panel: #fff; --accent: #000;
+  }
+  .wrap { max-width: none; padding: 0; }
+  a { text-decoration: none; }
+  .pub, ul.list > li { break-inside: avoid; }
+  h2 { break-after: avoid; }
+}
+
+/* --- Skills ------------------------------------------------------ */
+
+p.skills { margin: 0 0 .4rem; }
+p.skills strong { font-weight: 600; }

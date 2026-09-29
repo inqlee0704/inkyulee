@@ -1,7 +1,30 @@
-# Minimal GitHub Pages config (no theme)
+# GitHub Pages config — custom layout, no theme.
 title: "In Kyu Lee"
-description: "PhD student @UCSD"
+author: "In Kyu Lee"
+# tagline is the short suffix in <title>; description fills the meta tag.
+tagline: "PhD student @ UC San Diego"
+description: "Ph.D. student in Mechanical Engineering at UC San Diego, working on medical imaging, physics and AI."
+# url / baseurl are injected by GitHub Pages — leave them unset so a
+# custom domain would work without edits.
+
+# No theme: the layout and stylesheet in this repo are the whole design.
+theme:
+
 markdown: kramdown
 kramdown:
   input: GFM
-layout: none
+
+plugins:
+  - jekyll-seo-tag
+
+# NOTE: setting `exclude` replaces Jekyll's defaults rather than adding to
+# them, so the vendor/Gemfile entries below have to be repeated by hand.
+exclude:
+  - README.md
+  - .DS_Store
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - node_modules/

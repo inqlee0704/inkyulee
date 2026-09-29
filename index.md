@@ -16,9 +16,7 @@ inqlee0704 [at] gmail.com<br>
 <a href="assets/InKyuLee_CV.pdf">CV</a><span class="sep">·</span><a href="https://scholar.google.com/citations?user=WYCKXg0AAAAJ&hl=en">Google Scholar</a><span class="sep">·</span><a href="https://www.linkedin.com/in/in-kyu-lee-6a0850219/">LinkedIn</a>
 </p>
 
-I am a Ph.D. student in Mechanical Engineering at the University of California, San Diego, working with [Dr. Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo). I previously earned an M.S. in Bioengineering (Honors) from the University of Kansas, advised by [Dr. Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [Dr. William Brooks](https://berc.ku.edu/people/william-brooks), and a B.S. in Aerospace Engineering & Mechanics with a minor in Computer Science from the University of Minnesota, Twin Cities, advised by [Dr. Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/).
-
-My research sits at the intersection of physics, medical imaging, and AI — synchrotron micro-CT of bone marrow, coronary angiography, and quantitative CT pipelines that combine image registration, deep learning, and statistical modeling. Lately I have been especially interested in self-supervised learning.
+My research sits at the intersection of physics, medical imaging, and AI — synchrotron micro-CT of bone marrow, coronary angiography, and quantitative CT pipelines that combine image registration, deep learning, and statistical modeling, lately with a focus on self-supervised learning. I work with [Dr. Claire Acevedo](https://jacobsschool.ucsd.edu/people/profile/Claire_Acevedo) at UC San Diego, after an M.S. in Bioengineering (Honors) at the University of Kansas with [Dr. Jiwoong Choi](https://www.kumc.edu/jchoi4.html) and [Dr. William Brooks](https://berc.ku.edu/people/william-brooks), and a B.S. in Aerospace Engineering & Mechanics with a Computer Science minor at the University of Minnesota with [Dr. Hyun Soo Park](https://www-users.cse.umn.edu/~hspark/).
 
 </div>
 <div class="portrait">

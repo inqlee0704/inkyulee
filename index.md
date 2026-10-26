@@ -30,9 +30,9 @@ My research sits at the intersection of physics, medical imaging, and AI — syn
 <div class="pub">
 <div class="pub-thumb"><img src="assets/pub_cll.png" alt="" width="424" height="450" loading="lazy" decoding="async"></div>
 <div class="pub-body" markdown="1">
-[Disruption of Marrow Microenvironments in Chronic Lymphocytic Leukemia by High-Resolution Synchrotron Micro-Computed Tomography](https://www.biorxiv.org/content/10.1101/2025.10.20.683519v1.full.pdf)
+[Disruption of marrow microenvironments in chronic lymphocytic leukemia by high-resolution synchrotron micro-computed tomography](https://www.nature.com/articles/s43856-026-01945-4)
 
-**Lee IK,** Obata Y, Pomicter A, Williams J, Kikani B, Jensen C, Sborov D, Stephens D, Acevedo C — *Communications Medicine*, 2026 *(accepted)*
+**Lee IK,** Obata Y, Pomicter A, Williams J, Kikani B, Jensen C, Sborov D, Stephens D, Acevedo C — *Communications Medicine*, 2026
 </div>
 </div>
 
